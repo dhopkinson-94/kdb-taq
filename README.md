@@ -91,7 +91,7 @@ Amend the file detection code to pick up the new file names (as well as the old 
 when NYSE changes the filenames for the FTP download on September 17th, 2010.
 
 
-## Hot linking from your application
+## Hot linking from your application...
 
 
 You are welcome to download and use this code according to the terms of the licence.
