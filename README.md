@@ -1,6 +1,6 @@
 # kdb+taq
 
-## Changes to kdb+taq
+## Changes to kdb+taq as of 2023.06.06
 
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
 changing `Bid_Price` from real to float to avoid `Bid_Price`, `Offer_Price` type inconsistency

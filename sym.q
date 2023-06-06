@@ -1,5 +1,5 @@
 // schema.q
-// Quote Table Schema
+// Quote Table Schema, bsize and asize must be type long
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
 // trade Table Schema
 trade:([]time:`timestamp$();sym:`symbol$();price:`float$();size:`long$());
